@@ -55,4 +55,4 @@ Redigerade activity_main2 med widgets. Gjorde sedan så att ett av widgets:en vi
 
 ![img.png](img.png)
 
-![device-2024-04-19-112030.webm](device-2024-04-19-112030.webm)
+![img_1.png](img_1.png)
